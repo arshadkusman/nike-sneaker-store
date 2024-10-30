@@ -1,16 +1,20 @@
-# nike_sneaker_store
+# Nike Sneaker Store App
 
-A new Flutter project.
+A stylish Nike sneaker store app built using Flutter following Clean Architecture principles and state management with Bloc.
+Users can browse sneakers, add favorites, manage their cart, and shop with ease.
 
-## Getting Started
+![Sneaker Store App](https://github.com/user-attachments/assets/68de55e4-3dfe-43a5-bed7-c739c2eb386d)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[[Demo Link](https://your-demo-link-here.com)](https://arshadkusman.github.io/nike-sneaker-store-demo/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+
+- **User Authentication:** Sign up and sign in.
+- **Browse Products:** View Nike sneaker collections.
+- **Favorite Sneakers:** Save your favorite items.
+- **Shopping Cart:** Add items to cart and check out.
+- **Responsive Design:** Works on various devices and screen sizes.
